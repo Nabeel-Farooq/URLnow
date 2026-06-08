@@ -2,7 +2,6 @@
 
 **URLNow** is a **simple**, **fast**, and **free** URL shortener service that allows you to shorten long URLs for easier sharing. 🔗
 
-![URLNowDemo](https://github.com/KrishBharadwaj5678/URLNow/raw/main/URLNowDemo.png)
 
 ## 🚀 Features 
 
