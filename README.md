@@ -30,7 +30,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/KrishBharadwaj5678/URLNow.git
+   git clone https://github.com/Nabeel-Farooq/URLnow/
    cd URLNow
    ```
 
